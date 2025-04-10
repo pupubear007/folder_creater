@@ -1,4 +1,0 @@
-"""
-Biome Types
-"""
-

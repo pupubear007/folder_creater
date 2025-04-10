@@ -1,4 +1,0 @@
-"""
-Terrain Types
-"""
-
